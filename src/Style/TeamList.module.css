@@ -1,0 +1,29 @@
+.teamlist{
+  width: 60%;
+  margin: 30px auto;
+  background: gainsboro;
+  border-radius: 10px;
+  padding: 5%;
+}
+
+.teamlist .team{
+  border: 1px solid black;
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+.members{
+  border: 1px solid black;
+  margin: 15px 0;
+  padding: 10px;
+}
+
+.names{
+  margin: 10px 0;
+}
+
+.collapse{
+  display: none;
+}

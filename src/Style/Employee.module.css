@@ -1,0 +1,26 @@
+.employee{
+  min-width: 250px;
+  min-height: 320px;
+  position: relative;
+  cursor: pointer;
+}
+
+.employee img{
+  width: 100%;
+}
+
+.text{
+  min-width: 50%;
+  padding: 5%;
+}
+
+.text p{
+  font-size: 14px;
+  text-align: center;
+}
+
+.highlight{
+  border: 1px solid black;
+  background-origin: 10px;
+  box-shadow: 0 0 10px 0 black;
+}
